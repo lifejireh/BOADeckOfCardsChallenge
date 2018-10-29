@@ -73,7 +73,7 @@ namespace BOADeckOfCardsChallenge
                 }
                 else
                 {
-                    Console.WriteLine("No more cards to deal.");
+                    Console.WriteLine("Deal card stopped by user.");
                     break;
                 }
             }

@@ -30,7 +30,8 @@ namespace BOADeckOfCardsChallenge
             
              // Asking the user if they want to deal a card                      
              cd.dealOneCard(shuffleDeck);
-                      
+
+            Console.WriteLine("No more cards to deal.");
             Console.ReadLine();
 
         }
